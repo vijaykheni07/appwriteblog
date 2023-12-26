@@ -1,0 +1,14 @@
+{
+    "tailwindCSS.includeLanguages": {
+        "javascript": "javascript",
+        "html": "HTML"
+    },
+   "editor.quickSuggestions": {
+       "strings": true
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features",
+    },
+    
+}
+
